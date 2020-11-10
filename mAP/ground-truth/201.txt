@@ -1,0 +1,2 @@
+left_turn 379 336 457 354
+right_straight 492 331 582 355

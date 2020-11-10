@@ -1,0 +1,3 @@
+right_turn 653 330 717 350
+right_turn 520 330 578 354
+left_turn 345 331 442 357

@@ -1,0 +1,2 @@
+right_turn 543 302 622 329
+right_turn 473 300 517 329
