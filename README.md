@@ -66,10 +66,13 @@ $ python main.py -na
 
 ## 3.Evaluate on images or videos
 Convert trained weights as pb file
+```bashrc
 $ python freeze_graph.py
-
+```
 Then you will get some .pb files in the root path., and run the demo script
+```bashrc
 $ python image_demo.py
 $ python video_demo.py # if use camera, set video_path = 0
 $ python video_demo_detection.py
+```
 
