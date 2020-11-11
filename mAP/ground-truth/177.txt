@@ -1,2 +1,2 @@
-speed_40 370 331 430 350
-speed_40 496 329 554 349
+ttcs_right_lane_closed_ahead 1401 446 1550 821
+ttcs_right_lane_reduction 943 637 1008 755

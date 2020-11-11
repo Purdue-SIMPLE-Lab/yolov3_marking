@@ -20,7 +20,10 @@ args = parser.parse_args()
 
 # if there are no classes to ignore then replace None by empty list
 if args.ignore is None:
-  args.ignore = ["speed_35", "stop", "speed_40"]
+  # args.ignore = ["u_turn", "speed_35", "stop", "speed_40"]
+  args.ignore = ['u_turn', 'stop', 'speed_35', 'speed_40', 'const_cone', 'const_barrel', 'ttcs_end_const', 
+                'fire_hydrant', 'const_looper_cone', 'const_barricade', 'ttcs_road_const_ahead', 
+                'ttcs_right_lane_closed_ahead', 'ttcs_right_lane_reduction']
 
 specific_iou_flagged = False
 if args.set_class_iou is not None:

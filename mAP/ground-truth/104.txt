@@ -1,1 +1,1 @@
-right_turn 525 326 607 356
+right_turn 521 311 566 335

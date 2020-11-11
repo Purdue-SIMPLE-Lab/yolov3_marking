@@ -1,1 +1,2 @@
-left_turn 192 326 274 356
+right_turn 545 315 613 346
+straight 113 313 229 345

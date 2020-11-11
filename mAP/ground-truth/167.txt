@@ -1,1 +1,1 @@
-left_turn 402 307 440 321
+ttcs_right_lane_reduction 1410 405 1634 840

@@ -1,1 +1,2 @@
-right_turn 571 314 611 329
+const_barrel 1266 728 1397 882
+const_barrel 1129 716 1181 786

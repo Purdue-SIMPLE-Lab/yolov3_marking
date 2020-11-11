@@ -1,1 +1,2 @@
-right_turn 504 345 571 369
+ttcs_right_lane_closed_ahead 1658 323 1807 731
+ttcs_right_lane_reduction 954 609 1035 758

@@ -1,1 +1,1 @@
-right_turn 637 320 692 341
+right_turn 678 774 883 859

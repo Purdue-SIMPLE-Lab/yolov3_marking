@@ -1,2 +1,1 @@
-left_straight 244 315 348 348
-right_turn 379 325 476 351
+stop 299 349 477 397

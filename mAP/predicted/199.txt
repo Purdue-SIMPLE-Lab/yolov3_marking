@@ -1,2 +1,1 @@
-left_turn 0.9490 370 343 455 367
-right_straight 0.9294 498 334 597 367
+ttcs_right_lane_closed_ahead 0.9682 1204 525 1336 792

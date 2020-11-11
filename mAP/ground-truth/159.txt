@@ -1,1 +1,1 @@
-left_turn 177 313 220 328
+const_barrel 1283 743 1394 879

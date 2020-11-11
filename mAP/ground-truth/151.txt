@@ -1,1 +1,2 @@
-left_turn 108 326 159 348
+const_barrel 1268 725 1379 875
+const_barrel 1151 720 1194 785

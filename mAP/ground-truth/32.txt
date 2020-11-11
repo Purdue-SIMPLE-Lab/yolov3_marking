@@ -1,3 +1,1 @@
-left_turn 70 312 214 357
-left_turn 217 310 301 363
-straight 385 309 434 373
+left_turn 357 312 445 382

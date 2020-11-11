@@ -1,1 +1,3 @@
-right_turn 353 356 451 388
+const_barrel 969 720 1009 764
+const_barrel 1061 717 1113 780
+ttcs_right_lane_reduction 1061 717 1113 780

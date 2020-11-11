@@ -1,2 +1,2 @@
-left_straight 219 320 333 359
-right_turn 367 332 476 363
+speed_35 65 348 222 391
+speed_35 293 348 421 401
